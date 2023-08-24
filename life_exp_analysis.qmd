@@ -17,10 +17,12 @@ Here, I re-examine the analysis of Oeppen and Vaupel (2002).
 # Life Expectancy Analysis
 
 ```{r}
+# load gapminder data
 dat <- gapminder::gapminder_unfiltered
 ```
 
 ```{r}
+# create summary table
 sumdat <- dat %>%
   group_by(year) %>%
   filter(lifeExp == max(lifeExp)) %>%
