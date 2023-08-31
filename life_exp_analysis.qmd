@@ -5,7 +5,6 @@ editor: visual
 date: today
 ---
 
-
 ```{r}
 library(tidyverse)
 ```
@@ -30,4 +29,3 @@ sumdat <- dat %>%
   select(year, country, lifeExp) %>%
   arrange(year)
 ```
-
