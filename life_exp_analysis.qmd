@@ -29,5 +29,3 @@ sumdat <- dat %>%
   select(year, country, lifeExp) %>%
   arrange(year)
 ```
-
-This is a test.

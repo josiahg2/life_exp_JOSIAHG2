@@ -1,0 +1,29 @@
+---
+title: "DATA-413/613 HW-00 Student Info"
+author: ""
+format: 
+  html:
+    number-sections: true
+    embed-resources: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Please go to the Canvas Collaborations *Student Info* spreadsheet and fill in some information. 
+Submit a short text entry on Canvas when you have completed the assignment.
+
+If you cannot access the Collaboration spreadsheet please let me know. 
+
+- If it says your LOGIN is outdated, go to the Office 365 in the Canvas menu on the left, sign out, and sign back in.
+- Once you can see the spreadsheet you may have to switch it to Editing mode (top right).
+
+Please fill in: 
+
+- **Class Name**: Your name/nickname you use for class
+- **Pronouns**: Your pronouns if you would like
+- **GitHub ID**: Once you get a GitHub account, your ID
+- **Home Region**: Where you were born or grew up, City, State, Country
+- **Fun Fact about Me**: What would you like others to know about you?
+- **Topics of Interest for the Group Project**: What topic(s) would you like to explore for the group project? 
